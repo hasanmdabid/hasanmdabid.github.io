@@ -12,11 +12,8 @@ affiliations:
     url: "https://www.dfki.de"
 links:
   - icon: "at-symbol"
-    url: "mailto:Md_Abid.Hasan@dfki.de"
-    label: "E-mail Me"
-  - icon: "at-symbol"
     url: "mailto:abid1084@gmail.com"
-    label: "Personal E-mail"
+    label: "E-mail Me"
   - icon: "brands/github"
     url: "https://github.com/hasanmdabid"
   - icon: "brands/linkedin"
