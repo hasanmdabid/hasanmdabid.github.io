@@ -1,7 +1,7 @@
----
 schema: "hugoblox/author/v1"
 slug: "me"
 is_owner: true
+avatar: "authors/Abid.jpg"
 name:
   display: "Md Abid Hasan"
   given: "Md Abid"
@@ -25,4 +25,3 @@ interests:
   - "Generative AI"
   - "Data Augmentation"
   - "AI in Health Science"
----
