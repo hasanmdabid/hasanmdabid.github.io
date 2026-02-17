@@ -1,3 +1,4 @@
+---
 schema: "hugoblox/author/v1"
 slug: "me"
 is_owner: true
@@ -24,3 +25,4 @@ interests:
   - "Generative AI"
   - "Data Augmentation"
   - "AI in Health Science"
+---
