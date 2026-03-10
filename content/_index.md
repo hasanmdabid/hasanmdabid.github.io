@@ -42,11 +42,16 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I sit at the intersection of Machine Learning and Deep Learning, translating complex signal data into actionable insights across both academic and industrial landscapes. My work is driven by a simple philosophy: **Efficiency over Complexity**.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        **Medical Wearables & Data Augmentation:**
+        In the high-stakes domain of medical wearables, data is often scarce. My research focuses on finding the "Goldilocks" zone of Data Augmentation (DA). Interestingly, my findings challenged the status quo: I discovered that streamlined techniques like Time Warping often outperform heavy-duty Generative Adversarial Networks (GANs) in producing realistic, high-utility synthetic data.
 
-        Please reach out to collaborate 😃
+        **Solving the Cold-Start Problem:**
+        Forecasting is hard; forecasting with zero historical data is harder. I developed a novel augmentation algorithm for Cold-Start Forecasting that synthesizes new observation sequences by leveraging the dual power of Wavelet and Frequency domains, ensuring models stay accurate even when the "target window" is a blank slate.
+
+        **Beyond the Signal:**
+        I am deeply invested in Semantic Reasoning and Model Interpretability. Whether I’m applying image generative architectures to industry-scale imagery datasets or decoding the "why" behind a wearable signal, my goal is to make AI transparent, scalable, and grounded in reality.
     design:
       columns: '1'
   - block: collection
